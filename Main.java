@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		GENDER g = GENDER.MALE;
+		Gender g = Gender.MALE;
 		System.out.println(g);
 
 	}
